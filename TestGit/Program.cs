@@ -11,7 +11,10 @@ namespace TestGit
             Console.WriteLine("Hej från mohanad");
             Console.WriteLine("Hej från sara nytt!");
 
-            Console.WriteLine("Meddelande från mohanad branch ");
+
+            
+          Console.WriteLine("inshallah bimoto al ard eli bamshi aleha");
+          Console.WriteLine("Meddelande från mohanad branch ");
         }
 
 
