@@ -10,6 +10,16 @@ namespace TestGit
             Console.WriteLine("Hej från sara");
             Console.WriteLine("Hej från mohanad");
             Console.WriteLine("Hej från sara nytt!");
+
+            
+          
+        }
+
+
+        public void writeName(string name)
+        {
+            Console.WriteLine(name);
+            Console.WriteLine("Hej från sara nytt!");
           
         }
 
