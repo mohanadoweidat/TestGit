@@ -16,6 +16,8 @@ namespace TestGit
         public void writeName(string name)
         {
             Console.WriteLine(name);
+            Console.WriteLine("HEj från sara nuuu");
+          
         }
 
 
