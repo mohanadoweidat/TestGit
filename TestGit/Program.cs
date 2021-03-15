@@ -19,7 +19,7 @@ namespace TestGit
         public void writeName(string name)
         {
             Console.WriteLine(name);
-            Console.WriteLine("Hej från sara nytt!");
+            Console.WriteLine("HEj från sara nuuu");
           
         }
 
