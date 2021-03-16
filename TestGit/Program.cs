@@ -10,7 +10,7 @@ namespace TestGit
             Console.WriteLine("hej från Justine");
             Console.WriteLine("Hejjj Bojana you mastermind");
             Console.WriteLine("Hej från master");
- 
+            Console.WriteLine("ya allah test 2");
         }
 
 
