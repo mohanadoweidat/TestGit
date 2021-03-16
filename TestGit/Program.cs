@@ -7,10 +7,15 @@ namespace TestGit
         static void Main(string[] args)
         {
  
+            Console.WriteLine("Hej från saras branch");
             Console.WriteLine("hej från Justine");
             Console.WriteLine("Hejjj Bojana you mastermind");
+            Console.WriteLine("Hej från master"); 
             Console.WriteLine("Hej från master");
             Console.WriteLine("ya allah test 2");
+            Console.WriteLine("Testing, från Justine");
+ 
+
         }
 
 
